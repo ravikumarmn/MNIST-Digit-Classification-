@@ -8,3 +8,4 @@ You will be having (28*28) pixcels,  Reshapes arrays by going row-wise. You will
 Note : Input Should be in the shape(784,).
 
 
+![Digit_flask_app](https://user-images.githubusercontent.com/82469850/144388932-c4bb323d-5f7d-4ad6-a661-34a54e1f09cb.png)
